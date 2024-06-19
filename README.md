@@ -3,7 +3,7 @@
 <h3>Mantee Assignment From IBM Advance AI @Infinite Learning Course completion of Build a Chatbot to Analyze PDF Files using LLM from CognitiveClass.ai</h3>
 
 <h3>Mantee Info</h3>
-<h4>Name : Mohammad Fahmi Aziz</h4>
+<h4>Name : Salmen Christowfik z</h4>
 <h4>Program : IBM Advance AI</h4>
 
 <h4>Tech Stack</h4>
